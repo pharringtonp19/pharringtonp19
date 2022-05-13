@@ -1,5 +1,5 @@
 ### Hi there 👋 
 
-I am a PhD student in Economics looking to land a deep learning (Jax!) focused job. 
+I am a PhD student in Economics looking to land an applied ML job. 
 
 📫 : pharringtonp19@gmail.com
